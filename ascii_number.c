@@ -10,8 +10,6 @@ int main(void)
 	return(0);
 }
 
-#include <stdio.h>
-
 /**
  * main - Prints all ascii digit character
  *		including their asccii numbering

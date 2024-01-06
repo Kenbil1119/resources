@@ -20,12 +20,12 @@ void jack_bauer(void)
 			{
 				for (s2 = '0'; s2 <= '9'; s2++)
 				{
-					_putchar(m1);
-					_putchar(m2);
-					_putchar(':');
-					_putchar(s1);
-					_putchar(s2);
-					_putchar(10);
+					putchar(m1);
+					putchar(m2);
+					putchar(':');
+					putchar(s1);
+					putchar(s2);
+					putchar(10);
 
 					if ((m1 == '2' && m2 == '3') && (s1 == '5' && s2 == '9'))
 						return;

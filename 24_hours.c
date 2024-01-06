@@ -1,8 +1,10 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
- * jack_bauer - Function print the 24 hours of each minutes.
+ * jack_bauer - Function print each minutes of jack bauer 24 hours.
+ *
+ * Author global.name: Usman Saheed .K
+ * Email global.email: uskehinde@gmail.com
  */
 
 void jack_bauer(void)

@@ -1,0 +1,1 @@
+This folder is only meant for '.pdf' files 
